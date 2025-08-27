@@ -21,7 +21,6 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
 # Reading the file:
 ```
 import pandas as pd
@@ -30,10 +29,12 @@ df
 ```
 # Output
 <img width="1013" height="818" alt="Screenshot 2025-08-27 201057" src="https://github.com/user-attachments/assets/1fc755b0-9cf1-454f-8bca-179c44a4e168" />
+
 # Head Command:
 ```
 df.head()
 ```
+
 # Output
 <img width="1012" height="255" alt="Screenshot 2025-08-27 201220" src="https://github.com/user-attachments/assets/a346b52d-c529-41e2-82db-388680ad28ac" />
 # Tail Command:
